@@ -40,8 +40,11 @@ html {
   outline: 2px solid #39ff14;
 }
 
-.banner {
-  min-height: 16em;
+.banner img {
+  min-height: 15em;
+}
+
+.banner-content {
   color: #fff;
 }
 
