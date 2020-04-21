@@ -40,12 +40,16 @@ html {
   outline: 2px solid #39ff14;
 }
 
-.banner img {
-  min-height: 15em;
-}
-
 .banner-content {
   color: #fff;
+}
+
+.banner {
+  background-color: #006400;
+}
+
+div {
+  min-height: 16em;
 }
 
 .card {
@@ -76,6 +80,7 @@ html {
   background-color: #bea59b;
   border-color: #fff;
   color: #522806;
+  outline-color: #39ff14;
 }
 
 .footer {
